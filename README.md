@@ -28,9 +28,5 @@ Start the server
 ```bash
   uvicorn app:app --reload
 ```
-
-## Demo
-
-https://youtu.be/0k4oy1_mfEo
-
   
+# Alternatively open the project in the PyCharm and install all the required dependencies
