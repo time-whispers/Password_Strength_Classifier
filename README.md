@@ -29,4 +29,6 @@ Start the server
   uvicorn app:app --reload
 ```
   
-# Alternatively open the project in the PyCharm and install all the required dependencies. Then start the server by running the app.py file.
+# Alternatively open the project in the PyCharm and install all the required dependencies.
+
+# Then start the server by running the app.py file.
