@@ -2,7 +2,6 @@
 # Password Strength Classifier
 
 
-
 ## Run Locally
 
 Clone the project
