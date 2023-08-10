@@ -1,5 +1,5 @@
 
-# Password strength classifier
+# Password Strength Classifier
 
 
 
